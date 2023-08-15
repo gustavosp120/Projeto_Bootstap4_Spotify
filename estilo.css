@@ -85,16 +85,26 @@ h1 {
 @media (max-width: 575.98px) { 
 h1{
 	font-size: 3em;
-} }
+} 
+.btn-custom {
+	margin: 10px 15px;
+}
+}
 
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) {h1{
 	font-size: 4em;
+}
+.btn-custom {
+	margin: 10px 15px;
 } }
 
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) { h1{
 	font-size: 5em;
+}
+.btn-custom {
+	margin: 10px 15px;
 } }
 
 /* Large devices (desktops, 992px and up)*/
