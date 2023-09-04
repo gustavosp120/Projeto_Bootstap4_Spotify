@@ -76,13 +76,30 @@ nav.navbar-tramsparente {
 	padding-bottom: 20px;
 }
 
-.albuns {
-	padding: 10px 0;
-}
 
 #servicos h2, h3 {
 	color: #7c25f8;
 }
+
+#recusos {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#recusos h3 {
+	color: #9bf0e1;
+}
+
+#recusos h2 {
+	color: White;
+}
+
+
+.albuns {
+	padding: 10px 0;
+}
+
+
 
 
 /*------------------------Tipografia*/
@@ -145,3 +162,4 @@ h1{
 } }
 /*Extra large devices (large desktops)
 // No media query since the extra-large breakpoint has no upper bound on its width
+
