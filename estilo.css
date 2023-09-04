@@ -69,6 +69,21 @@ nav.navbar-tramsparente {
 	background-color: white;
 	color: black;
 }
+/*------------------------Estrutura do conteudo*/
+#servicos {
+	background: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.albuns {
+	padding: 10px 0;
+}
+
+#servicos h2, h3 {
+	color: #7c25f8;
+}
+
 
 /*------------------------Tipografia*/
 
@@ -77,6 +92,18 @@ h1 {
 	letter-spacing: -0,05em;
 	margin-bottom: 50px;
 	color: white;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: 700;
+	letter-spacing: -0.04em;
+}
+
+h3 {
+	font-size: 2em;
+	font-weight: 700;
+	letter-spacing: -0.04em;
 }
 
 /*------------------------Tamanho da midias*/
